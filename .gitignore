@@ -1,0 +1,5 @@
+Procfile
+.env
+config.json
+bugreport.js
+suggestions.js
